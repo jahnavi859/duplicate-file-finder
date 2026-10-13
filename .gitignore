@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+01_duplicate_finder/data.json
+practice_files/_organized/
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Local test data and backups
+*.backup
+01_duplicate_finder/data.json
+common.py.backup
+
+# Generated organized copies
+practice_files/_organized/
+demo_files/_organized/
